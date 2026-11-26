@@ -1,0 +1,8 @@
+{
+  "name": "clogs-eg-storefront",
+  "version": "1.1.0",
+  "private": true,
+  "description": "Static storefront for Clogs.eg with a Vercel API route that saves orders to Google Sheets",
+  "engines": { "node": ">=20" },
+  "dependencies": { "googleapis": "^144.0.0" }
+}
